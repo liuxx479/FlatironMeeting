@@ -76,9 +76,9 @@ Feel free to propose, or ask for sessions on particular topics in the table belo
 | GitHub Primer  |  @EiffL   | @EiffL       |  @viajani                 | Wed 1:30, in TBD |
 | Pyro (or pyprob) crash course |           | @johannbrehmer | @johannbrehmer, @EiffL, @MilesCranmer, @Linc-tw , @dch216  | |
 | BOLFI |     @OwenThomas      | @changhoonhahn | @changhoonhahn | | 
-| pydelfi tutorial |   @justinalsing        | @changhoonhahn | @changhoonhahn, @johannbrehmer , @viajani | | 
-| summary of available software packages |           | @dfm | @dfm, @johannbrehmer, @dch216, @changhoonhahn @cranmer  | | 
-| Intro to TensorFlow Probability by building a conditional density estimator for discrete counts | @EiffL | @EiffL | @changhoonhahn, @pelssers |  |
+| pydelfi tutorial |   @justinalsing        | @changhoonhahn | @changhoonhahn, @johannbrehmer , @viajani, @liuxx479 | | 
+| summary of available software packages |           | @dfm | @dfm, @johannbrehmer, @dch216, @changhoonhahn, @cranmer,@liuxx479  | | 
+| Intro to TensorFlow Probability by building a conditional density estimator for discrete counts | @EiffL | @EiffL | @changhoonhahn, @pelssers,@liuxx479 |  |
 | Nuisance hardened data compression/LFI of nuisance marginalized posteriors | @justinalsing | @justinalsing | @changhoonhahn |  |
 
 ## Hackers
@@ -101,4 +101,5 @@ any resources you might have that may be of interests to other participants
 | Miles | Interpreting deep NNs, neural density estimation, dark matter, exoplanets, stellar dynamics | distributed training in PyTorch, Graph nets, Variational NNs  | @MilesCranmer |
 | Owen | Bayesian Methods, Simulator Inference, Misspecification Analysis, Life Sciences applications | Bayesian Nonparametrics, BOLFI  | @OwenThomas |
 | Bart | LFI for event reconstruction in TPCs, NDEs with discrete data | Python, ELFI (BOLFI), XENON1T event simulations, some experience with pydelfi | @pelssers |
+| Jia | LFI for Cosmology | cosmology, simulation, python | @liuxx479 |
 
